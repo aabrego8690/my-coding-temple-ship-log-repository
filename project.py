@@ -1,1 +1,2 @@
-print("Hi World")
+int  = 15
+print(int)
